@@ -1,4 +1,17 @@
+<<<<<<< HEAD
 _site
 .sass-cache
 .DS_Store
 .ruby-version
+=======
+_site/*
+_theme_packages/*
+
+Thumbs.db
+.DS_Store
+
+!.gitkeep
+
+.rbenv-version
+.rvmrc
+>>>>>>> 23aad933d4fe42b7be6aebceaebb6ed8a9fb6d9e
