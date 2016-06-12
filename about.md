@@ -1,25 +1,14 @@
 ---
 layout: default
-title: About Long Haul
+title: About The League of (People in) Glasses of the U.S. and Japan
 ---
 
 <div class="post">
-	<h1 class="pageTitle">About Long Haul</h1>
+	<h1 class="pageTitle">The League of (People in) Glasses of the U.S. and Japan</h1>
 	<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt=""> 
-	<p class="intro">Long Haul is a minimal, long form <a href="http://jekyllrb.com">Jekyll</a> Theme. It can be used as is or customized to your hearts desire.</p>
-	<p>Long Haul was created in honor of all the hard working touring bicycles that have traversed the globe time and time again. Take it for a spin.</p>
-	<h2>Features</h2>
-	<ul>
-		<li>Built with <a href="http://sass-lang.com/">SASS</a> + <a href="http://compass-style.org/">COMPASS</a></li>
-  		<li>Layout with <a href="http://susy.oddbird.net/">SUSY Grid</a></li>
-  		<li>SVG Social Icons from <a href="http://customizr.net/icons/">Customizr</a></li>
-  		<li><a href="http://responsive-nav.com/">Responsive Nav Menu</a></li>
-  		<li><a href="https://github.com/snaptortoise/jekyll-rss-feeds">XML Feed for RSS Readers</a></li>
-  		<li>Contact Form via <a href="http://formspree.io/">Formspree</a></li>
-      <li>5 Post Loop with excerpt on Home Page</li>
-  		<li>Previous / Next Post Navigation</li>
-      <li>Estimated Reading Time for posts</li>
-  		<li><a href="https://github.com/adobe-webplatform/dropcap.js">Drop Cap</a> on posts</li>
-  		<li><a href="http://typecast.com/blog/a-more-modern-scale-for-web-typography">A Better Type Scale</a></li>
-  	</ul>
+	<p class="intro">The League of (People in) Glasses of the U.S. and Japan is a circle aimed at publishing English–Japanese bilingual dojinshi books. Our circle is consisted of novelist, illustlator, translator, etc.</p>	<p>Our first book will be unveiled at the <a href="http://www.comiket.co.jp/index_e.html">Comic Market's 90th session</a> (Tokyo Big Sight, August 12–14, 2016). Please visit our booth at the 3rd day of C90 (E-X hall, booth number: XX-00) </p>
+
+	<h1 class="pageTitle">日米眼鏡連合</h1>
+	<p class="intro">日米眼鏡連合はコミケットで日米両国語で書かれた同人誌を出版するために結成されました。</p>
+	<p>私たちの最初の同人誌は、2016年夏のコミケット90(3日目・東Xホール・ブース番号未定)で頒布される予定です。</p>
 </div>
