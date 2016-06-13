@@ -4,18 +4,19 @@ title: Contact Long Haul
 ---
 
 <div id="contact">
-  <h1 class="pageTitle">Contact Me</h1>
+  <h1 class="pageTitle">Contact Us / メッセージ</h1>
   <div class="contactContent">
-    <p class="intro">This is an example Contact page. If you want to make changes then do so in the <code>contact.html</code> file.</p>
-    <p>The form is provided by <a href="http://formspree.io/">Formspree.</a> Follow the directions on their site to set up the form for use.</p>
-    <p>If you have questions about the theme feel free to <a href="mailto:brimaidesigns@gmail.com">email me</a> or create an issue on <a href="https://github.com/brianmaierjr/long-haul">GitHub</a>. Enjoy!</p>
+    <p class="intro">If you have any questions, suggestions or comments, feel free to email me or mention our Twetter.</p>
+    <p class="intro">ご感想をお寄せください。Twiiterアカウントもございます。</p>
+	<p><a href="mailto:glassesleague@gmail.com">glassesleague@gmail.com</a></p>
+	<p>Twitter: @〜〜</p>
   </div>
-  <form action="http://formspree.io/your@mail.com" method="POST">
-    <label for="name">Name</label>    
+  <form action="http://formspree.io/glassesleague@gmail.com" method="POST">
+    <label for="name">Name/お名前</label>    
     <input type="text" id="name" name="name" class="full-width"><br>
-    <label for="email">Email Address</label>
+    <label for="email">Email Address/あなたのメールアドレス</label>
     <input type="email" id="email" name="_replyto" class="full-width"><br>
-    <label for="message">Message</label>
+    <label for="message">Message/メッセージ</label>
     <textarea name="message" id="message" cols="30" rows="10" class="full-width"></textarea><br>
     <input type="submit" value="Send" class="button">
   </form>
