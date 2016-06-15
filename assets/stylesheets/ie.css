@@ -1,0 +1,27 @@
+/* line 3, ../sass/ie.scss */
+.lt-ie9.js .logo {
+  padding-left: 20px;
+}
+/* line 7, ../sass/ie.scss */
+.lt-ie9.js .nav-collapse {
+  clip: auto;
+  width: 100%;
+  float: right;
+  max-height: none;
+  clear: none;
+  overflow: visible;
+  text-align: right;
+  padding-right: 20px;
+}
+/* line 17, ../sass/ie.scss */
+.lt-ie9.js .nav-collapse ul {
+  padding-top: 8px;
+}
+/* line 20, ../sass/ie.scss */
+.lt-ie9.js .nav-collapse ul li {
+  width: auto;
+  background: none;
+  display: inline-block;
+  margin-left: 20px;
+  border: none;
+}
