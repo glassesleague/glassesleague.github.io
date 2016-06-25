@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About The League of (People in) Glasses of the U.S. and Japan
+title: About Us
 ---
 
 <div class="post">
