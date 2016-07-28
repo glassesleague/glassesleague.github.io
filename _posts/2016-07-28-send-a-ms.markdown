@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "入稿！ / We've sent the data to a printer!"
+date:   2016-07-28
+---
+
+<p class="intro">C90(夏のコミケ)に向けて製作していた同人誌『The Book of Horrors / 悪夢——オリジナル怪談集』ですが、このたび無事印刷会社に入稿しました。頒布は下記で行います。</p>
+
+- コミックマーケット90
+- 会場：東京ビッグサイト
+- 3日目・8月14日(日)
+- 東5ホール、ブース番号: ハ-25b
+
+<p class="intro">We've finished writing the typescript and sent it to a printer.</p>
+
+Our book will unveil at our booth at Comic Market 90.:
+
+- At the 3rd day of Comic Market 90
+- The East Exhibition Hall - Hall 5, Booth No.: ハ-25b
+- Held at the Tokyo Big Sight, Tokyo, Japan
+- On 2016 August 14 (Sun.)
+
+本の紹介/About our book:
+
+<div style="text-align: center;"><img src="/assets/img/cover.jpg" /></div>
+
+- <strong>『<i>The Book of Horrors</i> ／ 悪夢——オリジナル怪談集』</strong>
+- Nomad／著、虚内ゆい／イラスト、イイダムネノリ／日本語訳
+- 短編4編
+- 英語版原作と日本語訳を収録(全97ページ)
+- By Nomad, illustrations by Yui UROUCHI
+- Including four short stories written in English
+- with Japanese translation
+- 97 pages 
+
