@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Thank you!"
+date:   2016-08-14
+---
+
+<p class="intro">C90(夏のコミケ)に参加してきました。おかげさまで、同人誌『The Book of Horrors / 悪夢——オリジナル怪談集』は完売しました。</p>
+
+<p class="intro">Thank you for visiting our booth at Comiket 90! We've sold out of stock!</p>
+
+本の紹介/About our book:
+
+<div style="text-align: center;"><img src="/assets/img/cover.jpg" /></div>
+
+- <strong>『<i>The Book of Horrors</i> ／ 悪夢——オリジナル怪談集』</strong>
+- Nomad／著、虚内ゆい／イラスト、イイダムネノリ／日本語訳
+- 短編4編
+- 英語版原作と日本語訳を収録(全97ページ)
+- By Nomad, illustrations by Yui UROUCHI
+- Including four short stories written in English
+- with Japanese translation
+- 97 pages 
+
