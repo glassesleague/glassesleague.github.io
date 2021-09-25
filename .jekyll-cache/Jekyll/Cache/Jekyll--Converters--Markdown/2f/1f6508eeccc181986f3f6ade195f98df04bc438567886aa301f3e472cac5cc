@@ -1,10 +1,4 @@
----
-layout: post
-title:  "Thank you. We're Finished Our Project."
-date:   2017-01-01
----
-
-<p class="intro">C91(冬のコミケ)に参加してきました。おかげさまで、2冊目の同人誌『The Book of Horrors / 悪夢——オリジナル怪談集』は完売……はしなかったものの，前回同様ご好評いただきました。ありがとうございます。</p>
+I"�<p class="intro">C91(冬のコミケ)に参加してきました。おかげさまで、2冊目の同人誌『The Book of Horrors / 悪夢——オリジナル怪談集』は完売……はしなかったものの，前回同様ご好評いただきました。ありがとうございます。</p>
 
 <p class="intro">Thank you for visiting our booth at Comiket 91! Fortunately our latest book sold a lot.</p>
 
@@ -14,24 +8,27 @@ date:   2017-01-01
 
 Thank you again for all of our readers and members.</p>
 
-2017年1月1日／Jan. 1st. 2017
+<p>2017年1月1日／Jan. 1st. 2017</p>
 
-日米メガネ連合編集者・副責任者・日本語翻訳者:<br>
-Editor/Sub-director/Japanese Traslator of<br>
-The League of (People in) Glasses of the U.S. and Japan:<br>
+<p>日米メガネ連合編集者・副責任者・日本語翻訳者:<br />
+Editor/Sub-director/Japanese Traslator of<br />
+The League of (People in) Glasses of the U.S. and Japan:<br /></p>
 
 <div style="text-align: right;">
 イイダムネノリ／IIDA Munenori
 </div>
 
-今回の本の紹介/About our latest book:
+<p>今回の本の紹介/About our latest book:</p>
 
 <div style="text-align: center;"><img src="/assets/img/161212_nishikawainn_H1H4.jpg" /></div>
 
-- <strong>『<i>TNishikawa Inn</i> ／ 西川イン——オリジナル怪談』</strong>
-- Nomad／著、イイダムネノリ／訳
-- 中編1編
-- 英語版原作と日本語訳を収録(全82ページ)
-- Including short stories written in English by Nomad
-- with Japanese translation by Munenori IIDA
-- 82 pages
+<ul>
+  <li><strong>『<i>TNishikawa Inn</i> ／ 西川イン——オリジナル怪談』</strong></li>
+  <li>Nomad／著、イイダムネノリ／訳</li>
+  <li>中編1編</li>
+  <li>英語版原作と日本語訳を収録(全82ページ)</li>
+  <li>Including short stories written in English by Nomad</li>
+  <li>with Japanese translation by Munenori IIDA</li>
+  <li>82 pages</li>
+</ul>
+:ET
