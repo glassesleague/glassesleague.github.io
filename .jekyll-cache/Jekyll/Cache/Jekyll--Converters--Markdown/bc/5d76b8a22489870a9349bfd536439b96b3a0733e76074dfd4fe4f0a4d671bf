@@ -1,0 +1,37 @@
+I"K	<div id="articles">
+  <h1>Articles</h1>
+  <ul class="posts noList">
+    
+      <li>
+      	<span class="date">01 Jan 2017</span>
+      	<h3><a href="/blog/Thank-you-C11-bye/">Thank you. We're Finished Our Project.</a></h3>
+      	<p class="description">C91(冬のコミケ)に参加してきました。おかげさまで、2冊目の同人誌『The Book of Horrors / 悪夢——オリジナル怪談集』は完売……はしなかったものの，前回同様ご好評いただきました。ありがとうございます。Thank ...</p>
+      </li>
+    
+      <li>
+      	<span class="date">13 Dec 2016</span>
+      	<h3><a href="/blog/send-a-ms-C91/">入稿！ / We've sent the data to a printer's office!</a></h3>
+      	<p class="description">C91(冬	のコミケ)に向けて製作していた同人誌『Nishikawa Inn / 西川イン——オリジナル怪談』ですが、このたび無事印刷会社に入稿いたしました。We've finished editing the book and se...</p>
+      </li>
+    
+      <li>
+      	<span class="date">14 Aug 2016</span>
+      	<h3><a href="/blog/Thank-you-C90/">Thank you!</a></h3>
+      	<p class="description">C90(夏のコミケ)に参加してきました。おかげさまで、同人誌『The Book of Horrors / 悪夢——オリジナル怪談集』は完売しました。Thank you for visiting our booth at Comiket...</p>
+      </li>
+    
+      <li>
+      	<span class="date">28 Jul 2016</span>
+      	<h3><a href="/blog/send-a-ms-C90/">入稿！ / We've sent the data to a printer!</a></h3>
+      	<p class="description">C90(夏のコミケ)に向けて製作していた同人誌『The Book of Horrors / 悪夢——オリジナル怪談集』ですが、このたび無事印刷会社に入稿しました。We've finished editing the typescrip...</p>
+      </li>
+    
+      <li>
+      	<span class="date">15 Jun 2016</span>
+      	<h3><a href="/blog/got-a-booth-of-comiket-C90/">夏コミ当選! We've won a booth of Comiket 90!</a></h3>
+      	<p class="description">コミックマーケット90(夏のコミケ)にサークル参加が決定しました。コミックマーケット90は、2016年8月12日(金)から14日(日)まで、東京ビッグサイトにて開催されます。ブースの位置はウェウブカタログ等を参考にお越しください。また...</p>
+      </li>
+    
+  </ul>
+</div>
+:ET
