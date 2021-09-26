@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Thank you. We're Finished Our Project."
+title:  "Thank you. And Goodbye"
 date:   2017-01-01
 ---
 
